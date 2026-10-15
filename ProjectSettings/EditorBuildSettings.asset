@@ -6,8 +6,10 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 99c9720ab356a0642a771bea13969a05
+    path: "Assets/Samples/Meta XR Interaction \u200BSDK/207.0.1/Example Scenes/ConcurrentHandsControllersExamples.unity"
+    guid: 10824ac1a08b9a0459de4c071e1db2aa
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 138f3e761335f9d44a487dceca81ca46, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: a11d5fbc77dd5624bac40c58f1854a32, type: 2}
   m_UseUCBPForAssetBundles: 0
